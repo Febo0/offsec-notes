@@ -15,5 +15,4 @@ Main focus: **Active Directory**, Web Application Security, and Privilege Escala
 - [Linux Privilege Escalation](./linux-privesc.md) *(coming soon)*
 - [Web OWASP Top 10](./web-owasp.md) *(coming soon)*
 
-Work in progress 🚀  
-Last updated: January 2026
+Work in progress 
